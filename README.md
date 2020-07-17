@@ -7,8 +7,7 @@ Hi, :wave: &nbsp; I'm Haaris full stack and senior program developer @ [NMW Clin
 Ofcourse i have, not always work and Code. it's like amm... give me second to edit this page next time please.
 
 #### :inbox_tray: &nbsp; Get in touch
-- Twitter: https://twitter.com/harizinside
-- Personal Website: https://harizinside.github.io
+ [![follow @harizinside](https://img.shields.io/twitter/follow/harizinside.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/harizinside)
 
 #### :computer: &nbsp; My Skill
 :one: &nbsp; React native<br>
