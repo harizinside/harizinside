@@ -1,18 +1,29 @@
-<img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif">
+## Hi, I'm Muhammad Haaris Setiawan
+_Software Enginer @ [NMWClinic](https://nmwclinic.co.id/)_
 
-### :high_brightness: &nbsp; Muhammad Haaris Setiawan 
-Hi, :wave: &nbsp; I'm Haaris full stack and senior program developer @ [NMW Clinic](https://nmwclinic.co.id/en-US). I love to learn and implement code, it's so much fun when you can write any code and it's all work but sometimes warning and error notification always make me curious.
+<a href="https://www.linkedin.com/in/harizinside/"><img alt="LinkedIn" src="https://img.shields.io/badge/harizinside-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https:/www.twitter.com/harizinside"><img alt="Twitter" src="https://img.shields.io/badge/harizinside-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://dev.to/harizinside"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 
-#### :coffee: &nbsp; Hobies
-Ofcourse i have, not always work and Code. it's like amm... give me second to edit this page next time please.
 
-#### :inbox_tray: &nbsp; Get in touch
- [![follow @harizinside](https://img.shields.io/twitter/follow/harizinside.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/harizinside)
-
-#### :computer: &nbsp; My Skill
-:one: &nbsp; React native<br>
-:two: &nbsp; Laravel<br>
-:three: &nbsp; Codeigniter<br>
-:four: &nbsp; MongoDB<br>
-:five: &nbsp; MySQL<br>
-:six: &nbsp; Adobe Ilusator<br>
+```node
+const harisinside {
+ pronouns: "he" | "him",
+ code : [
+  "PHP Laravel",
+  "PHP Codeigniter",
+  "Node JS",
+  "Express JS",
+  "React Native",
+  "VUE"
+ ],
+ db : [
+  "MySQL",
+  "MongoDB"
+ ],
+ tools : [
+  "Firebase"
+  "Git"
+ ]
+}
+```
+     
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harizinside&show_icons=true&locale=en&layout=compact" alt="harizinside" /></p>
