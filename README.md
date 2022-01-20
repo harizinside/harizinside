@@ -17,8 +17,7 @@ const harisinside {
  pronouns: "he" | "him",
  code : [
   "PHP Laravel",
-  "PHP Codeigniter",
-  "Express JS",
+  "Express",
   "React Native",
   "VUE"
  ],
