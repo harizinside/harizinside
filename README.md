@@ -17,12 +17,12 @@ const harisinside {
  pronouns: "he" | "him",
  code : [
   "PHP Laravel",
-  "Express",
-  "React Native",
-  "VUE"
+  "VUEJS"
+  "ReactJS",
+  "AdonisJS"
  ],
  db : [
-  "MySQL",
+  "MariaDB",
   "MongoDB"
  ],
  tools : [
