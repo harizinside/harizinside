@@ -16,17 +16,17 @@ Software Enginer @ [NMWClinic](https://nmwclinic.co.id/)
 const harisinside {
  pronouns: "he" | "him",
  code : [
+  "TypeScript",
+  "ExpressJS",
+  "VUEJS",
   "PHP Laravel",
-  "VUEJS"
-  "ReactJS",
-  "AdonisJS"
  ],
  db : [
-  "MariaDB",
-  "MongoDB"
+  "MongoDB",
+  "MySQL"
  ],
  tools : [
-  "Firebase"
+  "Firebase",
   "Git"
  ]
 }
