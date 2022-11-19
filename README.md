@@ -13,7 +13,7 @@ Software Enginer @ [NMWClinic](https://nmwclinic.co.id/)
 
 
 ```node
-const harisinside {
+const harizinside {
  pronouns: "he" | "him",
  code : [
   "TypeScript",
