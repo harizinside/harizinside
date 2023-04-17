@@ -17,7 +17,8 @@ const harizinside {
  pronouns: "he" | "him",
  code : [
   "TypeScript",
-  "Express",
+  "JavaScript",
+  "ExpressJS",
   "VUE",
   "PHP"
  ],
