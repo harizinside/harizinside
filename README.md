@@ -1,5 +1,5 @@
 ## Hi, I'm Muhammad Haaris Setiawan
-Software Enginer @ [NMWClinic](https://nmwclinic.co.id/)
+IT Manager @ [NMWClinic](https://nmwclinic.co.id/)
 
 <a href="https://www.linkedin.com/in/harizinside/">
  <img alt="LinkedIn" src="https://img.shields.io/badge/harizinside-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,7 +18,6 @@ const harizinside {
  code : [
   "TypeScript",
   "JavaScript",
-  "ExpressJS",
   "VUE",
   "PHP"
  ],
