@@ -13,11 +13,11 @@ IT Manager @ [NMWClinic](https://nmwclinic.co.id/)
 
 
 ```node
-const harizinside {
- pronouns: "he" | "him",
+const harizinside = {
+ pronouns: "he" || "him",
  code : [
   "TypeScript",
-  "JavaScript",
+  "NUXTJS",
   "VUE",
   "PHP"
  ],
