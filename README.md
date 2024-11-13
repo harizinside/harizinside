@@ -1,5 +1,4 @@
 ## Hi, I'm Muhammad Haaris Setiawan
-IT Manager @ [NMWClinic](https://nmwclinic.co.id/)
 
 <a href="https://www.linkedin.com/in/harizinside/">
  <img alt="LinkedIn" src="https://img.shields.io/badge/harizinside-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
