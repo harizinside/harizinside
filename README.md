@@ -17,7 +17,7 @@ package main
 import "fmt"
 
 type Profile struct {
-	Pronouns string
+	Pronouns []string
 	Code     []string
 	DB       []string
 	Tools    []string
