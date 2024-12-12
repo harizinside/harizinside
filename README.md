@@ -11,23 +11,27 @@
 </a>
 
 
-```node
-const harizinside = {
- pronouns: "he" || "him",
- code : [
-  "TypeScript",
-  "NUXTJS",
-  "VUE",
-  "PHP"
- ],
- db : [
-  "MongoDB",
-  "MySQL"
- ],
- tools : [
-  "Firebase",
-  "Git"
- ]
+```go
+package main
+
+import "fmt"
+
+type Profile struct {
+	Pronouns string
+	Code     []string
+	DB       []string
+	Tools    []string
+}
+
+func main() {
+	harizinside := Profile{
+		Pronouns: []string{"he", "him"},
+		Code:     []string{"Go", "TypeScript", "NUXTJS", "VUE", "Laravel"},
+		DB:       []string{"MongoDB", "MySQL"},
+		Tools:    []string{"Firebase", "Git"},
+	}
+
+	fmt.Printf("%+v\n", harizinside)
 }
 ```
      
