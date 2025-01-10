@@ -1,15 +1,11 @@
-## Hi, I'm Muhammad Haaris Setiawan
+# 👋 Hi, I'm Muhammad Haaris Setiawan
 
-<a href="https://www.linkedin.com/in/harizinside/">
- <img alt="LinkedIn" src="https://img.shields.io/badge/harizinside-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.twitter.com/harizinside">
- <img alt="Twitter" src="https://img.shields.io/badge/harizinside-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://dev.to/harizinside">
- <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
+## About Me
 
+I am a passionate developer with a keen interest in creating efficient and scalable solutions. My expertise spans across various programming languages, frameworks, 
+and tools that empower me to deliver high-quality software. I thrive in dynamic environments, consistently learning and adapting to new technologies.
+
+## Tech Stack
 
 ```go
 package main
@@ -17,22 +13,26 @@ package main
 import "fmt"
 
 type Profile struct {
-	Pronouns []string
-	Code     []string
-	DB       []string
-	Tools    []string
+	Pronouns  []string
+	Code      []string
+	Framework []string
+	DB        []string
+	Tools     []string
 }
 
 func main() {
 	harizinside := Profile{
-		Pronouns: []string{"he", "him"},
-		Code:     []string{"Go", "TypeScript", "NUXTJS", "VUE", "Laravel"},
-		DB:       []string{"MongoDB", "MySQL"},
-		Tools:    []string{"Firebase", "Git"},
+		Pronouns:  []string{"he", "him"},
+		Code:      []string{"Go", "TypeScript", "Vue", "React", "PHP"},
+		Framework: []string{"Fiber", "Nuxt", "Next", "Laravel"},
+		DB:        []string{"MongoDB", "MySQL"},
+		Tools:     []string{"Firebase", "Git"},
 	}
 
 	fmt.Printf("%+v\n", harizinside)
 }
 ```
-     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harizinside&show_icons=true&locale=en&layout=compact" alt="harizinside" /></p>
+
+## Contact Me
+
+Feel free to connect with me on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/harizinside) or check out my latest articles on [Dev.to](https://dev.to/harizinside).
