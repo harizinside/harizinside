@@ -35,4 +35,4 @@ func main() {
 
 ## Contact Me
 
-Feel free to connect with me on ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/harizinside) or check out my latest articles on [Dev.to](https://dev.to/harizinside).
+Feel free to connect with me on ![X (formerly Twitter) Follow](https://x.com/harizinside) or check out my latest articles on [Dev.to](https://dev.to/harizinside).
