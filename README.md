@@ -18,19 +18,22 @@ type Profile struct {
 	Framework []string
 	DB        []string
 	Tools     []string
+	Runtime   []string
 }
 
 func main() {
 	harizinside := Profile{
 		Pronouns:  []string{"he", "him"},
-		Code:      []string{"Go", "TypeScript", "Vue", "React", "PHP"},
-		Framework: []string{"Fiber", "Nuxt", "Next", "Laravel"},
-		DB:        []string{"MongoDB", "MySQL"},
+		Code:      []string{"Go", "Python", "TypeScript", "Vue", "React", "PHP"},
+		Framework: []string{"Fiber", "FastAPI", "Hono", "Nuxt", "Next", "Laravel"},
+		DB:        []string{"PostgreSQL", "MySQL", "MongoDB"},
 		Tools:     []string{"Firebase", "Git"},
+		Runtime:   []string{"Bun", "PyPy"},
 	}
 
 	fmt.Printf("%+v\n", harizinside)
 }
+
 ```
 
 ## Contact Me
