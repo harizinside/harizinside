@@ -25,9 +25,9 @@ func main() {
 	harizinside := Profile{
 		Pronouns:  []string{"he", "him"},
 		Code:      []string{"Go", "Python", "TypeScript", "Vue", "React", "PHP"},
-		Framework: []string{"Fiber", "FastAPI", "Hono", "Nuxt", "Next", "Laravel"},
+		Framework: []string{"Fiber", "FastAPI", "Hono", "Nuxt", "Next", "Tanstack Start", "Laravel"},
 		DB:        []string{"PostgreSQL", "MySQL", "MongoDB"},
-		Tools:     []string{"Firebase", "Git"},
+		Tools:     []string{"Kubernetes", "Docker", "Firebase", "Git"},
 		Runtime:   []string{"Bun", "PyPy"},
 	}
 
